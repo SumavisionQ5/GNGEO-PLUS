@@ -1,6 +1,6 @@
 # GNGEO-PLUS
 
-A NeoGeo Emulator for FC100S.
+A NeoGeo Emulator for Allwinner F1C100S Handheld.
 
 
 
@@ -20,7 +20,7 @@ A NeoGeo Emulator for FC100S.
 
 3.除了svcx和kof97inv21，都可以从这里下载 : https://archive.org/download/fbnarcade-fullnonmerged/arcade/
 
-支持的游戏如下：
+支持的游戏如下（以下没有的就是不支持）：
 
 19yy=19YY (Neo CD conversion, ADK World)
 
