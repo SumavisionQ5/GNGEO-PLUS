@@ -1,7 +1,7 @@
 # GNGEO-PLUS
 
 A NeoGeo Emulator for Allwinner F1C100S Handheld.
-
+Modification is committed on Situ's resouce codes(20210731). All ROM info is converted from FinalBurn NEO's codes and has been updated. But all encrypted ROM are removed. Some new homebrew games and hacks are supported. All ROMs are set to be parent, so you need to use non-merge ROMSET and neogeo.zip is needed. UniBIOS is supported, and you have to rename any UniBIOS' filename to uni-bios.rom, or no game could run. There is a supported gamelist at the end of this file. Games are not in the list are not supported.
 
 
 # GNGEO PLUS 0.2
