@@ -19,10 +19,13 @@ A NeoGeo Emulator for Allwinner F1C100S Handheld.
     默认使用UNIBIOS，需要把neogeo.zip里面的任何一个UNIBIOS文件（例如：uni-bios_4_0.rom）改名成uni-bios.rom才行，不然闪退。
 
 3.除了svcx和kof97inv21，支持的游戏都可以从这里下载 : https://archive.org/download/fbnarcade-fullnonmerged/arcade/
+
 svcx的下载地址：https://drive.google.com/file/d/1ZTZrXghEeWunmefR7gYJh6OUYateFY58/view?usp=share_link
+
 kof97inv21的下载地址：https://drive.google.com/file/d/1RvZQiOEP8dzMU-42I1HpGMbQ5YTB2XF5/view?usp=share_link
 
-支持的游戏如下（以下没有的就是不支持）：
+
+# 支持的游戏如下（以下没有的就是不支持）：
 
 19yy=19YY (Neo CD conversion, ADK World)
 
