@@ -25,7 +25,7 @@ svcx的下载地址：https://drive.google.com/file/d/1ZTZrXghEeWunmefR7gYJh6OUY
 kof97inv21的下载地址：https://drive.google.com/file/d/1RvZQiOEP8dzMU-42I1HpGMbQ5YTB2XF5/view?usp=share_link
 
 
-# 支持的游戏如下（以下没有的就是不支持）：
+# 支持的游戏如下（以下没有的就是不支持,司徒已转好的GNO除外）：
 
 19yy=19YY (Neo CD conversion, ADK World)
 
