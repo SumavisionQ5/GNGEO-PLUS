@@ -1,7 +1,13 @@
 # GNGEO-PLUS
 
 A NeoGeo Emulator for Allwinner F1C100S Handheld.
-Modification is committed on Situ's resouce codes(20210731). All ROM info is converted from FinalBurn NEO's codes and has been updated. But all encrypted ROM are removed. Some new homebrew games and hacks are supported. All ROMs are set to be parent, so you need to use non-merge ROMSET and neogeo.zip is needed. UniBIOS is supported, and you have to rename any UniBIOS' filename to uni-bios.rom, or no game could run. There is a supported gamelist at the end of this file. Games which are not in the list are not supported.
+Modification is committed on steward-fu's resouce codes(20210731). All ROM info is converted from FinalBurn NEO's codes and has been updated. But all encrypted ROM are removed. Some new homebrew games and hacks are supported. All ROMs are set to be parent, so you need to use non-merge ROMSET and neogeo.zip is needed. UniBIOS is supported, and you have to rename any UniBIOS' filename to uni-bios.rom, or no game could run. There is a supported gamelist at the end of this file. Games which are not in the list are supported, but you need to use GNO file to run them.
+
+All exclusive GNO files are uploaded to google driver, you can get them here:
+https://drive.google.com/drive/folders/15Xezpcs3-5G5HWE7VbwZEht8eOXqRkM1?usp=share_link
+
+This emulator also supports steward-fu's gno, you can get them here:
+https://github.com/steward-fu/neogeo/releases
 
 
 # GNGEO PLUS 0.2
@@ -24,6 +30,11 @@ svcx的下载地址：https://drive.google.com/file/d/1ZTZrXghEeWunmefR7gYJh6OUY
 
 kof97inv21的下载地址：https://drive.google.com/file/d/1RvZQiOEP8dzMU-42I1HpGMbQ5YTB2XF5/view?usp=share_link
 
+建议使用转好的GNO文件，本模拟器独家支持的GNO可以从如下地址下载：
+https://drive.google.com/drive/folders/15Xezpcs3-5G5HWE7VbwZEht8eOXqRkM1?usp=share_link
+
+司徒转的GNO也支持，可以从如下地址下载：
+https://github.com/steward-fu/neogeo/releases
 
 # 支持的游戏如下（以下没有的就是不支持,司徒已转好的GNO除外）：
 
